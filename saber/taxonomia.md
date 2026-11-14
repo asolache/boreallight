@@ -59,3 +59,4 @@ lista y nada más. Crear una carpeta sin declararla rompe el CI.
 - `recursos` · saber · Material de referencia que se consulta y no se decide
 - `mapa` · obra · El mapa de valor del proyecto, el JSON del editor
 - `themes` · arxiu · El tema de diapositivas de 2019 (submódulo reveal-hugo), de una presentación que no se llegó a escribir
+- `.github` · prova · El CI: pasa la guarda del cerebro en cada PR

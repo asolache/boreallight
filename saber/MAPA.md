@@ -22,6 +22,7 @@ Lo que comprueba que la obra cumple la ley. Debe fallar cuando toca, y solo ento
 
 | carpeta | qué entra | ficheros |
 |---|---|---|
+| `.github/` | El CI: pasa la guarda del cerebro en cada PR | 1 · 0 KB |
 | `guardas/` | Las comprobaciones que fallan en CI cuando una promesa deja de ser cierta | 2 · 53 KB |
 
 ## saber
@@ -45,4 +46,4 @@ Lo que fue. Se conserva; **no se lee como presente**.
 
 ---
 
-*8 carpetas declaradas · generado desde el árbol, no escrito.*
+*9 carpetas declaradas · generado desde el árbol, no escrito.*
